@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AA904928-3124-459C-B1FE-ECD98381E5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinPOS", "src\WinPOS\WinPOS.csproj", "{523D6139-BD91-47F9-8638-C519C1854CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523D6139-BD91-47F9-8638-C519C1854CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523D6139-BD91-47F9-8638-C519C1854CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523D6139-BD91-47F9-8638-C519C1854CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523D6139-BD91-47F9-8638-C519C1854CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{523D6139-BD91-47F9-8638-C519C1854CDB} = {AA904928-3124-459C-B1FE-ECD98381E5FE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A42B2F-A528-4026-8CB1-3E0A519A9EF2}
+	EndGlobalSection
+EndGlobal
